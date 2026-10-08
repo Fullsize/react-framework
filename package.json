@@ -31,6 +31,9 @@
   "author": "Fullsize",
   "license": "ISC",
   "dependencies": {
+    "@editorjs/editorjs": "^2.31.0",
+    "@editorjs/image": "^2.10.3",
+    "@editorjs/raw": "^2.5.1",
     "@svgr/webpack": "^8.1.0",
     "@vitejs/plugin-legacy": "^5.2.0",
     "antd": "^5.21.1",

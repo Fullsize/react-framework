@@ -38,4 +38,11 @@ export default [
     hoc: [WithHome],
     children: [],
   },
+  {
+    path: 'editor',
+    name: '编辑器',
+    component: 'editor',
+    hoc: [WithHome],
+    children: [],
+  },
 ] as ROUTEITEM[];
